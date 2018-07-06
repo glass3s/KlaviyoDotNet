@@ -1,0 +1,11 @@
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\obj\Debug\KlaviyoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\bin\Debug\KlaviyoDotNet.dll.config
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\bin\Debug\KlaviyoDotNet.dll
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\bin\Debug\KlaviyoDotNet.pdb
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\obj\Debug\KlaviyoDotNet.Resources.Errors.resources
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\obj\Debug\KlaviyoDotNet.csproj.GenerateResource.Cache
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\obj\Debug\KlaviyoDotNet.dll
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\obj\Debug\KlaviyoDotNet.pdb
+C:\Users\dorin\Documents\Visual Studio 2017\Projects\KlaviyoIntegration\KlaviyoDotNet\obj\Debug\KlaviyoDotNet.csprojResolveAssemblyReference.cache
