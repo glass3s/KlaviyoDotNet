@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KlaviyoDotNet.Settings" GeneratedClassName="Endpoints">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://a.klaviyo.com/api/v1/</Value>
+    </Setting>
+    <Setting Name="Person" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">person/{0}</Value>
+    </Setting>
+    <Setting Name="Identify" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">identify?data={0}</Value>
+    </Setting>
+    <Setting Name="ServerSideApiUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://a.klaviyo.com/api/</Value>
+    </Setting>
+    <Setting Name="Track" Type="System.String" Scope="User">
+      <Value Profile="(Default)">track?data={0}</Value>
+    </Setting>
+    <Setting Name="Lists" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lists</Value>
+    </Setting>
+    <Setting Name="List" Type="System.String" Scope="User">
+      <Value Profile="(Default)">list/{0}</Value>
+    </Setting>
+    <Setting Name="ListMembers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">list/{0}/members</Value>
+    </Setting>
+    <Setting Name="ListsExclusions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">people/exclusions</Value>
+    </Setting>
+    <Setting Name="ListExclusions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">list/{0}/exclusions</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
